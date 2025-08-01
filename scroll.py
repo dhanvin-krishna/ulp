@@ -10,7 +10,7 @@ while True:
     key = input("Enter key (w/s/q): ").lower()
 
     if key == 'w':
-        pyautogui.scroll(300)  # scroll up
+        pyautogui.scroll(300)  # To scroll up
     elif key == 's':
         pyautogui.scroll(-300)  # scroll down
     elif key == 'q':
