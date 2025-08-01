@@ -12,7 +12,7 @@ while True:
     if key == 'w':
         pyautogui.scroll(300)  # To scroll up
     elif key == 's':
-        pyautogui.scroll(-300)  # scroll down
+        pyautogui.scroll(-300)  # To scroll down
     elif key == 'q':
         print("Exiting...")
         break
