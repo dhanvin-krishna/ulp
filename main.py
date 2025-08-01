@@ -13,7 +13,7 @@ CALIBRATION_TIME = 2          # Seconds to measure background noise
 # Global clap time storage
 clap_times = []
 
-# Global clap time storage
+
 clap_times = []
 commd = 0
 
