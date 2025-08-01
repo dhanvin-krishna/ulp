@@ -8,7 +8,7 @@ import time
 # Adjustable parameters
 THRESHOLD_MULTIPLIER = 3.0     # Sound must be 3x louder then Ambient to count as clap!!
 CLAP_GAP = 0.5                 # Max seconds between claps to count as a double clap
-CALIBRATION_TIME = 2          # Seconds to measure background noise
+CALIBRATION_TIME = 2          # Seconds to measure background noise!!
 
 # Global clap time storage
 clap_times = []
