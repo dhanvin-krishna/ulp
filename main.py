@@ -6,7 +6,7 @@ import pyautogui
 import time
 
 # Adjustable parameters
-THRESHOLD_MULTIPLIER = 3.0     # Sound must be 3x louder than ambient to count as clap
+THRESHOLD_MULTIPLIER = 3.0     # Sound must be 3x louder then Ambient to count as clap!!
 CLAP_GAP = 0.5                 # Max seconds between claps to count as a double clap
 CALIBRATION_TIME = 2          # Seconds to measure background noise
 
